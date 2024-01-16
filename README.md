@@ -1,12 +1,6 @@
-### Hi there 👋
-
-<!--
-**Whimsy-Taster/Whimsy-Taster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Swayam Mukherjee
 Hi There! 👋🏽
-I’m Swayam, an engineering and soon-to-be management graduate exploring the fascinating world of technology and AI. I’m on a journey of learning and discovery, and I'm excited to share it with you!
+I’m Swayam, an engineering graduate exploring the fascinating world of technology and AI. I’m on a journey of learning and discovery, and I'm excited to share it with you!
 
 A Bit About Me
 🎓 From Mechanics to Management: I started my journey in mechanical engineering at Jadavpur University and am currently pursuing an MBA at XLRI Jamshedpur.
@@ -22,3 +16,4 @@ On My Learning Path
 Let's Connect!
 📫 How to Reach Me: LinkedIn Profile
 🗨️ Open for Chats: I love to connect with people from diverse backgrounds and learn from their experiences.
+
